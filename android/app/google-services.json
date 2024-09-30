@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77778519104",
+    "project_id": "datacollection-a5185",
+    "storage_bucket": "datacollection-a5185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77778519104:android:25afa5fda63ce10cdb8ba5",
+        "android_client_info": {
+          "package_name": "com.example.datacollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYdp7MBRk_zfzJM6GiwV-0JjZ_ajgL9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
